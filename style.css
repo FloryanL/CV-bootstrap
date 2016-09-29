@@ -14,14 +14,16 @@ header, section {
     margin: 0;
     padding: 0;
 }
-/*
-.navleft a {
-    color: red !important;
-}*/
 .portrait {
     background-image: url('elements/images/Fantasy blue.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
     padding: 0;
+}
+.titleme { 
+    display: none;  /*pour l'instant*/
+}
+.About {
+    display: none;  /*pour l'instant*/
 }
