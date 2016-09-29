@@ -21,9 +21,9 @@ header, section {
     height: 100vh;
     padding: 0;
 }
-.titleme { 
-    display: none;  /*pour l'instant*/
-}
+/*.titleme { 
+    display: none;  
+}*/
 .portrait2 {
     background-image: url('elements/images/X no_img.png');
     background-size: cover;
@@ -31,9 +31,9 @@ header, section {
     height: 100vh;
     padding: 0;
 }
-.About {
-    display: none;  /*pour l'instant*/
-}
+/*.About {
+    display: block;  
+}*/
 .Experiences {
     padding: 10vh 0 !important;
 }
