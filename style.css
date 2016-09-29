@@ -27,3 +27,13 @@ header, section {
 .About {
     display: none;  /*pour l'instant*/
 }
+.Experiences {
+    padding: 10vh 0 !important;
+}
+.xp {
+    margin: auto;
+    padding: 1vh 2vh;
+    color: silver;
+    background-color: saddlebrown;
+    border-radius: 1%;
+}
