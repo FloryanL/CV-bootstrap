@@ -7,6 +7,7 @@ body {
 .navleft {
     height: 100vh;
     width: 35vh;
+    margin: 0;
     padding: 0;
 }
 /*
