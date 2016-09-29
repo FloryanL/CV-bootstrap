@@ -4,6 +4,10 @@ body {
     margin: 0;
     background: darkgrey;
 }
+header, section {
+    height: 100vh;
+    padding: 0 !important;
+}
 .navleft {
     height: 100vh;
     width: 35vh;
@@ -14,3 +18,10 @@ body {
 .navleft a {
     color: red !important;
 }*/
+.portrait {
+    background-image: url('elements/images/Fantasy blue.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding: 0;
+}
