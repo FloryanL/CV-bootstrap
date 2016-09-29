@@ -15,7 +15,7 @@ header, section {
     padding: 0;
 }
 .portrait {
-    background-image: url('elements/images/Fantasy blue.jpeg');
+    background-image: url('elements/images/X no_img.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -23,6 +23,13 @@ header, section {
 }
 .titleme { 
     display: none;  /*pour l'instant*/
+}
+.portrait2 {
+    background-image: url('elements/images/X no_img.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding: 0;
 }
 .About {
     display: none;  /*pour l'instant*/
