@@ -34,10 +34,9 @@ section {
     padding: 0;
 }
 
-
-/*.titleme { 
+.titleme { 
     display: none;  
-}*/
+}
 
 .portrait2 {
     background-image: url('elements/images/X no_img.png');
@@ -48,18 +47,25 @@ section {
 }
 
 
-/*.About {
-    display: block;  
-}*/
+.About {
+    display: none;  
+}
 
 .Experiences {
-    padding: 10vh 0 !important;
+     display: none;
+}
+
+.content_xp {
+    background-color: lightgray;
+    border-radius: 1%;
+    box-shadow: 10px 10px 5px #888888;
 }
 
 .xp {
     margin: auto;
     padding: 1vh 2vh;
-    color: silver;
-    background-color: saddlebrown;
-    border-radius: 1%;
+}
+
+.Competences {
+    
 }
