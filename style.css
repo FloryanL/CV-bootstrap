@@ -1,19 +1,31 @@
 /*commentaires*/
+/*couleur lien/bouton: (orange)#FF5F00; couleur fond navbar: (noir-light)#323331; 
+couleur texte : (bleu)#0082E5; color fond site: (gris)#B7B5BF; color hover: (blanc) #FFFFFF;*/
 
 body {
     margin: 0;
-    background: darkgrey;
+    background: #B7B5BF;
+    color: #0082E5;
 }
-header, section {
+
+header,
+section {
     height: 100vh;
     padding: 0 !important;
 }
+
 .navleft {
+    background-color: #323331;
     height: 100vh;
     width: 35vh;
     margin: 0;
     padding: 0;
 }
+
+.typocolor {
+    color: #FF5F00 !important;
+}
+
 .portrait {
     background-image: url('elements/images/X no_img.png');
     background-size: cover;
@@ -21,9 +33,12 @@ header, section {
     height: 100vh;
     padding: 0;
 }
+
+
 /*.titleme { 
     display: none;  
 }*/
+
 .portrait2 {
     background-image: url('elements/images/X no_img.png');
     background-size: cover;
@@ -31,12 +46,16 @@ header, section {
     height: 100vh;
     padding: 0;
 }
+
+
 /*.About {
     display: block;  
 }*/
+
 .Experiences {
     padding: 10vh 0 !important;
 }
+
 .xp {
     margin: auto;
     padding: 1vh 2vh;
